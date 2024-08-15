@@ -1,0 +1,20 @@
+.caja {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #DAB894 ;
+}
+
+.center-div {
+    width: 250px;
+    height: 250px;
+    background-color: #8C6954;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.texto {
+    font: bold;   
+}
